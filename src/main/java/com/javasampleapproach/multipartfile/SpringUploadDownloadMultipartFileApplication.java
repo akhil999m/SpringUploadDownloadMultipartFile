@@ -7,7 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.javasampleapproach.multipartfile.filestorage.FileStorage;
-
+//File upload
 @SpringBootApplication
 public class SpringUploadDownloadMultipartFileApplication implements CommandLineRunner {
 	 
